@@ -1,0 +1,91 @@
+.nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.nav-let{
+    display: flex;
+    flex-direction: row;
+    padding-left: 15px;
+    color: white
+}
+.nav-left1{
+    padding-left: 30px;
+    color: rgb(141, 218, 41);
+}
+.nav-right{
+    padding-right: 15px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: white;
+}
+.a{
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid rgb(0, 255, 64);
+    font-style: italic;
+}
+.head{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+    height: 90vh;
+    
+}
+.h1{
+    width: 100vh;
+    color: white;
+    padding: 10px;
+    text-align: right;
+}
+.h2{
+    width: 100vh;
+    color: white;
+}
+.img{
+    height: 300px;
+}
+.para{
+    padding-left: 200px;
+}
+.body {
+    background-image: url(https://ik.imagekit.io/zk7tfeeru/ll.webp?updatedAt=1698763812051);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+  }
+.sevices{
+    color: white;
+    text-align: center;
+}
+.sh1{
+    color: yellowgreen;
+}
+.services2{
+    display: flex;
+    align-items: row;
+}
+.s{
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid red;
+    border-radius: 200%;
+}
+.c1{
+    color: yellowgreen;
+}
+.contact{
+    color: white;
+    text-align: center;
+}
+.contact-info{
+    font-size: 20px;
+}
+.icons{
+    height: 50px;
+}
+.photo{
+    height: 60px;
+}
